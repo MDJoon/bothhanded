@@ -1,0 +1,7 @@
+name: BothHanded
+version: 1.0
+main: com.github.mdjoon.bothhanded.BothHandedPlugin
+api-version: 1.21
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.9.20
+  - org.jetbrains.kotlin:kotlin-reflect:1.9.20
